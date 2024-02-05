@@ -16,7 +16,7 @@
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
-    "BOT_TOKEN": {6596101015:AAES4cTCYNKwpZkg5o8W3zdRKaojxzg3onY}
+    "BOT_TOKEN": {6596101015:AAES4cTCYNKwpZkg5o8W3zdRKaojxzg3onY
       "description": "Your bot token, as a string.",
       "value": ""
     },
