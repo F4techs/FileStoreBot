@@ -16,15 +16,15 @@
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
-    "BOT_TOKEN": {6596101015:AAES4cTCYNKwpZkg5o8W3zdRKaojxzg3onY
+    "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "API_ID": {28137112
+    "API_ID": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "DB_CHANNEL_ID": {1770426686
+    "DB_CHANNEL_ID": {
       "description": "give me the telegram channel ID here (better this should be private channel)",
       "value": ""
     },
@@ -33,11 +33,11 @@
       "value": "",
       "required": false
     },
-    "OWNER_ID": {6211296766
+    "OWNER_ID": {
       "description": "give your telegram user id here",
       "value": ""
     },
-    "API_HASH": {88f20d79d72a60bce6a5f9dbd8871aca
+    "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
